@@ -1,0 +1,9 @@
+TAKING DECISIONS: IF / ELSE STATEMENTS﻿
+
+Note - DO this all in a file called practice-4.js
+
+1. Create a variable called age and specify a age u want and then Create a "if-else" statement to compare if the age mentioned is over 70. Use console.log to print if the age is over 70 or not.
+
+2. After checking the result, change the population temporarily to 20 and then to 100. See the different results, and set the age back to original.
+
+To run ur file , type in the console "node practice-4.js" . Be sure to download nodejs before running it or u will get errors!

@@ -1,0 +1,15 @@
+BASIC OPERATORS﻿
+
+Note - Be sure to do this all in a file called practice-3.js
+
+1. Declare a variable called population with ur countries population. Then console.log it while dividing it by 2. (I hope you understand)
+
+2. Increase the population of your country by 1 and log the result to the console.
+
+3. Singapore has a population of 5 million. Does your country have more people than Singapore?. Show it using console.log by using the comparision operator.
+
+4. Also declare a variable called country with the value as the name of the country and a continent variable which contains the name of the continent ur country is in.
+
+4. Based on the variables you created, create a new variable description which contains a string with this format: 'India is in Asia.'. I want u to use + (concatenation) for joining the 2 variables with the other strings. (India should be the country variable and Asia should be the continent variable for example)
+
+To run ur file , type in the console "node practice-3.js" . Be sure to download nodejs before running it or u will get errors!

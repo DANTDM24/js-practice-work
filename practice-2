@@ -1,0 +1,11 @@
+DATA TYPES﻿
+
+Note - Be sure to do this all in a file called practice-2.js
+
+1. Declare a variable called Country and set its value according to your country. The variable should hold a String value. Also declare a variable language, but don't assign any value to it at all.
+
+2. Log the types of country and language to the console using typeof function.
+
+Note - if you dont remember the typeof function, be sure to ask cat about it or search on google how to use typeof function.
+
+To run ur file , type in the console "node practice-2.js" . Be sure to download nodejs before running it or u will get errors!

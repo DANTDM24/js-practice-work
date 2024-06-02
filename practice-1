@@ -1,0 +1,9 @@
+VALUES AND VARIABLES﻿ (Practice-1)
+
+Note - do this all in a file called practice-1.js
+
+1. Declare variables called country, state and name and assign their values according to ur wish.
+
+2. Log their values to the console using console.log
+
+To run ur file , type in the console "node practice-1.js" . Be sure to download nodejs before running it or u will get errors!

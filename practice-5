@@ -1,0 +1,19 @@
+THE SWITCH STATEMENT﻿
+
+Note - do this all in a file called practice-5.js
+
+1. Use a switch statement to log the following string for the given language:
+
+hindi: 'MOST number of native speakers!';
+
+english: '2nd place in number of native speakers';
+
+urdu: '3rd place';
+
+bengali: 'Number 4';
+
+for all other i.e the default case, simply log 'Great language too :D'.
+
+To run ur file , type in the console "node practice-5.js" . Be sure to download nodejs before running it or u will get errors!
+
+if you dont remember the switch statement, you can simply google once "Switch Statement in Nodejs". If you still dont understand , ask cat.
